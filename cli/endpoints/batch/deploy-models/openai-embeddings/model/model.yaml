@@ -1,3 +1,0 @@
-engine: text-embedding-ada-002
-model: text-embedding-ada-002
-task: embeddings
